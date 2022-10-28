@@ -7,4 +7,6 @@ These are obviously unsafe as files retrieved by exploiting the backend, in this
 
 
 ## Available on Megaupload:
+Full project is around 30GB with all it's child websites:
+
 https://mega.nz/folder/A7pTAIxQ#RKFqwEkJU1f0DxGaaKXk_Q
